@@ -1,0 +1,10 @@
+Windows Server Infrastructure Lab Notes
+
+1. Created virtual machines using VMware Workstation Pro
+2. Installed Windows Server in VM
+3. Configured Active Directory Domain Services (AD DS)
+4. Created users and organizational units in AD
+5. Configured DNS for name resolution
+6. Set up File Server for shared resource access
+7. Tested VM connectivity and troubleshooting
+8. Practiced remote access and VM management
